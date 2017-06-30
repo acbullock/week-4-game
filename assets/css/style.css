@@ -1,0 +1,21 @@
+#choosePlayerSection{
+	height:150px;
+}
+body{
+	background-image: url("../images/background.jpg");
+
+	/*background-repeat: no-repeat;*/
+
+}
+h1, h2{
+	color:#eeeeee;
+	background-color: #222222;
+	
+}
+h3{
+	color:#eeeeee;
+	
+}
+.row{
+	min-height: 250px;
+}
